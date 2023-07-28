@@ -1,5 +1,5 @@
 ## CodeClause_firebase_authentication
-#Readme
+# Readme
 HELLO EVERYONE,WELCOME TO THE Website Authentication  USING Firebase.
 
 This Application helps in authenticating the website login using firebase console. This Web-based Application uses HTML , CSS, javascript and firebase console.
